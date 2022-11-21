@@ -21,4 +21,4 @@ I finished my undergraduate study at Northwestern University with a double major
 
 My research interest lies at the intersection of NLP, Computational Social Science and Interactive Media. My past research experience was focused on building interactive applications and using computational methods to analyze social issues.
 
-I like reading and writing fictions outside of work.
+I like reading and writing fiction outside of work.
