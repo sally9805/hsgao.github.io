@@ -2,11 +2,14 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I was the teaching assistant for the following courses at Northwester University Department of Computer Science:
 
-Organize your courses by years, topics, or universities, however you like!
+COMP_SCI 110: Intro to Computer Programming with Python
+
+COMP_SCI 348: Intro to Artificial Intelligence
+
+COMP_SCI 214: Data Structures and Algorithms
