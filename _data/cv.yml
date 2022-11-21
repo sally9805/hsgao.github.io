@@ -10,7 +10,7 @@
   type: time_table
   contents:
     - title: Stanford University
-      institution: Computer Science
+      institution: SCPD, 4.075/4.000
       year: 2022
       description:
         - title: Courses
@@ -21,7 +21,7 @@
             - Distributed Systems
             - Deep Multi-Task and Meta Learning
     - title: Northwestern University
-      institution: B.S. in Computer Science, Double Major in Economics
+      institution: B.S. in Computer Science, Double Major in Economics, Summa Cum Laude
       year: 2020
 
 - title: Research
